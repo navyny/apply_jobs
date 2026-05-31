@@ -32,6 +32,8 @@ modes/_profile.md
 
 # Secrets (never commit — use .env.example as template)
 .env
+credentials.json
+token.json
 
 # Generated
 .resolved-prompt-*
